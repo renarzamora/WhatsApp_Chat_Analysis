@@ -3,7 +3,7 @@
 **WhatsApp Chat Analysis**
 ================
 
-**we analyze an English Learning WhatsApp**
+**We analyze an English Learning WhatsApp chat**
 -------------------------------------------
 
 We can find a lot of information from our own or Bussiness WhatsApp messages, which can also help us to solve business problems
@@ -25,27 +25,27 @@ We used Pieplot and Worlmaps.
 
 ![alt text](Eda_Graphic2.png)
 
-# Total emojis present in the chat and the type of emojis sent between two peoples.
+**Total emojis present in the chat and the type of emojis sent between two peoples.**
 ![alt text](whatsapp_plot.png)
 
-# Let’s have a look at the most used words in this WhatsApp chat by visualizing a word cloud
+**Let’s have a look at the most used words in this WhatsApp chat by visualizing a word cloud**
 ![alt text](word_map1.png)
 
-# Let’s have a look at the most used words by each person by visualizing two different word clouds
-# First user
+**Let’s have a look at the most used words by each person by visualizing two different word clouds**
+**First user**
 ![alt text](word_map2.png)
 
-# Second user
+**Second user**
 ![alt text](word_map3.png)
 
 
 ### Usage
 
-# Generate one instance of WhatsAppChatAnalyzer, then We choosen two users within a Dictionary, run gen_dataset to get 
-# a Panda dataframe from a txt file WhatsApp chat and last run eda_process to obtain signicant insights.
+Generate one instance of WhatsAppChatAnalyzer, then We choosen two users within a Dictionary, run gen_dataset to get 
+a Panda dataframe from a txt file WhatsApp chat and last run eda_process to obtain signicant insights.
 
 
-**Authors**
+**Author**
 ------------
 
 * Renar Zamora - renarzamora@gmail.com
